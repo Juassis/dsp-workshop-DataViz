@@ -1,4 +1,4 @@
-# Static website Template
+# DSP: Workshop Data Viz
 
 This is a template for a static website using Sphinx and GitHub Pages.
 
