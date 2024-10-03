@@ -12,8 +12,8 @@ about
 ```{toctree}
 :maxdepth: 2
 :hidden:
-:caption: A topic
+:caption: Schedule
 
-folder_topic/article_topic
+folder_topic/schedule
 ```
 
