@@ -10,7 +10,6 @@ project = "Data Science Platform: Workshop"
 copyright = "2024, DTU Biosustain, Informatics Platform, DSP"
 author = "Juliana Assis"
 
-
 # -- General configuration ---------------------------------------------------
 
 
